@@ -1,0 +1,13 @@
+name: demo
+version: 0.1.0
+
+authors:
+  - Alexander Sigatchov <asigatchov@gmail.com>
+
+targets:
+  demo:
+    main: src/demo.cr
+
+crystal: 0.26.1
+
+license: MIT
